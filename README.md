@@ -1,8 +1,12 @@
 # Тестовая документация
-<div>
-<li> <a href="https://docs.google.com/spreadsheets/d/1GtHQgyUFFwR5KFH16bMjYkKieJF0a1GW/edit?usp=drive_link&ouid=114163468163669774738&rtpof=true&sd=true">Checklist для тестирования Регистрации, Авторизации, Каталога, Корзины, Оплаты</a> </li>
-<li> <a href="https://app.qase.io/project/G10?author=311&previewMode=side&suite=21">Тестовый набор в QASE</a> </li>
-<li> <a href="https://drive.google.com/file/d/1lnyqGze8Rwb1DQPSHWSu4WT6MKM0-kdf/view?usp=drive_link">Тест - кейсы через QASE для тестирования Регистрации, Авторизации, Каталога, Корзины, Оплаты</a> </li>
-<li> <a href="https://drive.google.com/file/d/1I3cR2OjDm6euoLRlya53XR8usyCxR3rD/view?usp=drive_link">Test run 2025/04/26 через QASE для тестирования Регистрации, Авторизации и Каталога продукции</a> </li>
-<li> <a href="https://docs.google.com/spreadsheets/d/1-6usXkZ3PiftNKMDtLqpdN5DDssJWQigFp3-gB9EEBQ/edit?usp=drive_link">Issues через Youtrack </a> </li>
-</div>
+- [Чек-лист для тестирования основных модулей интернет-магазина](https://docs.google.com/spreadsheets/d/1GtHQgyUFFwR5KFH16bMjYkKieJF0a1GW/edit?gid=710016004#gid=710016004)  
+  _Провёл составление и применение чек-листа для проверки регистрации, авторизации, каталога, корзины и оплаты в веб-приложении интернет-магазина_
+
+- [Тест-кейсы для проверки ключевых функций (QASE)](https://drive.google.com/file/d/1lnyqGze8Rwb1DQPSHWSu4WT6MKM0-kdf/view)  
+  _Разработал и выполнил тест-кейсы в QASE для модулей регистрации, авторизации, каталога, корзины и оплаты веб-приложения интернет-магазина_
+
+- [Тест-ран в QASE: регистрация, авторизация, каталог (26.04.2025)](https://drive.google.com/file/d/1I3cR2OjDm6euoLRlya53XR8usyCxR3rD/view)  
+  _Провёл тест-ран с фиксацией результатов тестирования регистрации, авторизации и каталога веб-приложения интернет-магазина_
+
+- [Баг-репорты по результатам тестирования (YouTrack)](https://docs.google.com/spreadsheets/d/1-6usXkZ3PiftNKMDtLqpdN5DDssJWQigFp3-gB9EEBQ/edit?gid=0#gid=0)  
+  _Оформил баг-репорты по найденным дефектам в YouTrack для веб-приложения интернет-магазина_
